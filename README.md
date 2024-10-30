@@ -25,8 +25,8 @@ You can use any tools you like to help you complete the challenge. So if you've 
 
 ### Links
 
-- Solution URL: [Repository](#)
-- Live Site URL: [Click Here](#)
+- Solution URL: [Repository](https://github.com/shivpratik/recipe-page-main)
+- Live Site URL: [Click Here](https://recipe-page-main-beryl-five.vercel.app/)
 
 ## My process
 
